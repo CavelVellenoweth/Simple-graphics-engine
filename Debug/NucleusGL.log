@@ -1,0 +1,24 @@
+﻿  GLMain.cpp
+  MyCode.cpp
+MyCode.cpp(172): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+MyCode.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+MyCode.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+MyCode.cpp(234): warning C4101: 'polyTempQ': unreferenced local variable
+MyCode.cpp(234): warning C4101: 'polyTempQT': unreferenced local variable
+  Trans.cpp
+Trans.cpp(118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Trans.cpp(202): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Trans.cpp(203): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Trans.cpp(233): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Trans.cpp(234): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Trans.cpp(264): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Trans.cpp(265): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  windows_interface.cpp
+windows_interface.cpp(207): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+windows_interface.cpp(209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+windows_interface.cpp(211): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+windows_interface.cpp(152): warning C4101: 'pbSuccess': unreferenced local variable
+  Generating Code...
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+Nucleus.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.
+  
